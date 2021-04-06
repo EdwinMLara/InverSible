@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InverSible</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="htc">htc</string>
+    <string name="lg">lg</string>
+    <string name="meizu">meizu</string>
+    <string name="samsung">samsung</string>
+    <string name="motorola">motorola</string>
+</resources>
